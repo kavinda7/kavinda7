@@ -1,6 +1,6 @@
 # 🚀 Hi there, I'm Kavinda Kulasinghe! 👋  
 
-🎯 **Business Analyst | Product Owner | AI & Digital Health Enthusiast**  
+🎯 **PhD Aspirant | Business Analyst | Product Owner | AI & Digital Health Enthusiast**  
 
 🔍 Passionate about **data-driven decision-making, AI-driven mental health solutions, persuasive system design, and energy research**. I love working at the intersection of **technology, business, and human behavior** to create impactful solutions.  
 
