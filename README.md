@@ -44,7 +44,7 @@
 ---
 
 ## 🌍 Let’s Connect!  
-📫 **Email:** wmkgkulasinghe"gmail.com / kavinda.gayashan.kulasinghe@student.oulu.fi  
+📫 **Email:** wmkgkulasinghe@gmail.com / kavinda.gayashan.kulasinghe@student.oulu.fi  
 🔗 **LinkedIn:** [Kavinda Kulasinghe](https://www.linkedin.com/in/kavindakulasinghe/)  
 
 💡 Always excited to connect with fellow researchers, tech enthusiasts, and product leaders! Feel free to explore my repositories, contribute, or reach out for collaborations. 🚀  
