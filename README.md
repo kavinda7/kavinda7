@@ -1,6 +1,7 @@
 # 🚀 Hi there, I'm Kavinda Kulasinghe! 👋  
 
 🎯 **PhD Aspirant | Business Analyst | Product Owner | AI & Digital Health Enthusiast**  
+📍 Currently living in **Oulu, Finland** 🇫🇮 
 
 🔍 Passionate about **data-driven decision-making, AI-driven mental health solutions, persuasive system design, and energy research**. I love working at the intersection of **technology, business, and human behavior** to create impactful solutions.  
 
@@ -15,7 +16,7 @@
 🎓 **Master's in Business Administration** – University of West London 🇬🇧  
 🎓 **Bachelor's (Hons.) in Applied Science** – University of Peradeniya 🇱🇰
 
-📍 Currently living in **Oulu, Finland** 🇫🇮 
+
 
 ---
 
